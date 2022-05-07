@@ -1,4 +1,4 @@
-# 👾 Olá! Eu sou o Giancarlo Rossi. Seja bem vindo ao meu GitHub! 👾 
+# Olá! Eu sou o Giancarlo Rossi. Seja bem vindo ao meu GitHub! 👾 
 
 ### Atualmente formado em desenvolvimento front-end pela Kenzie Academy Brasil.
 ### Estudando o back-end para ser um desenvolvedor full-stack em alguns meses.
