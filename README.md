@@ -5,10 +5,10 @@
 
 # :robot: Tecnologias :robot:
 
-### React | JavaScript | CSS | Git | TypeScript | HTML | Redux
+### Next.js | React | JavaScript | CSS | Git | TypeScript | HTML | Redux
 
 #  :monocle_face: Estudando :monocle_face:
 
-### Python | MySQL  | MongoDB | React Native | Next.js
+### Python | MySQL  | MongoDB | React Native 
 
 ## Sempre atrás de solucionar problemas, cuidando dos detalhes o máximo possível!
