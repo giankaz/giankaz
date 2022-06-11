@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/giankaz/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a> 
 <a href="https://gian-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkeding"/> </a>
 <a href="https://api.whatsapp.com/send?phone=5554992034201" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
-     <br>
-<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="typing" width="300" align="end" />
+<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="typing" width="300" align="right" />
 </h1>
 
 <br> 
@@ -32,7 +31,6 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
      
-
 </p>
 
 <h2 align="left">:monocle_face: Studying At The Moment:</h2>
@@ -40,6 +38,7 @@
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> </a>
+
 
   
 <h2 align="left"> 🚀 Github Status:</h2> 
