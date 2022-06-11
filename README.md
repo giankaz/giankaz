@@ -23,8 +23,7 @@
 
 </p>
 
-
-#  :monocle_face: Estudando :monocle_face:
+<h2 align="left" color="red">:monocle_face: Estudando no momento:</h2>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
