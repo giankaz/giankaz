@@ -47,7 +47,8 @@
 <h2 align="left"> 👷‍♂️ Working At:</h2>
 
 <br>
-<p>Full Stack Developer at <a href="https://www.brasilfone.com.br/">Brasilfone ☎️ </a> </p>
+
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFZImbfsSoSYg/profile-displaybackgroundimage-shrink_200_800/0/1594739774037?e=1659571200&v=beta&t=3cpli-rmUaKSku_133rqgN5V48ttcJUDHI3of0vONXw" width="400"/>
 
 <br>
 
