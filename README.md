@@ -43,7 +43,14 @@
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a>
 
 <br>
-  
+     
+<h2 align="left"> 👷‍♂️ Wroking At The Moment:</h2>
+
+<br>
+<p>Full Stack Developer at <a href="https://www.brasilfone.com.br/">Brasilfone ☎️ </a> </p>
+
+<br>
+
 <h2 align="left"> 🚀 Github Status:</h2> 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark" />
