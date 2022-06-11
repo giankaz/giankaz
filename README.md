@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer 💻</h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"></h1>
 
 <br>
 
