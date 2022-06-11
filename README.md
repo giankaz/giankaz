@@ -29,14 +29,11 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> </a>
 
+  
 <h2 align="left"> 🚀 Github Status:</h2> 
-
 <br>
-[![Giancarlo GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark" />
 
-<br>
-[![Giancarlo GitHub stats]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark)
 
 
