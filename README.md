@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Olá! Eu sou Giancarlo Rossi. Bem vindo (a) ao meu GitHub!  </h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer 💻</h1>
+
+<br>
+ 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <br>
 
