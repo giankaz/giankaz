@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="typing" />
+<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="typing" width="150" />
 
 <h2 align="left">:hammer_and_wrench: Tecnologias que uso:</h2>
 
