@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Olá! Eu sou Giancarlo Rossi. Bem vindo(a) ao meu GitHub!  </h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Olá! Eu sou Giancarlo Rossi. Bem vindo (a) ao meu GitHub!  </h1>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 </p>
 
-<h2 align="left" color="red">:monocle_face: Estudando no momento:</h2>
+<h2 align="left" color="#fff">:monocle_face: Estudando no momento:</h2>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
