@@ -39,8 +39,8 @@
 <br>
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="50" height="50"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a>
 
 <br>
   
