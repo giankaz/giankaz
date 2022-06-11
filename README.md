@@ -42,9 +42,8 @@
   
 <h2 align="left"> 🚀 Github Status:</h2> 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark" />
+
 
 
 
