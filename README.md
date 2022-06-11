@@ -44,7 +44,7 @@
 
 <br>
      
-<h2 align="left"> 👷‍♂️ Wroking At The Moment:</h2>
+<h2 align="left"> 👷‍♂️ Working At:</h2>
 
 <br>
 <p>Full Stack Developer at <a href="https://www.brasilfone.com.br/">Brasilfone ☎️ </a> </p>
