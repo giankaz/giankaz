@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer 💻</h1>
 
-[![Giancarlo GitHub stats](https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark)
-
 
 <h2 align="left">:hammer_and_wrench: Tecnologias que uso:</h2>
 
@@ -31,7 +29,10 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> </a>
 
+<h2 align="left"> 🚀 Github Status:</h2> 
 
-## Sempre atrás de solucionar problemas, cuidando dos detalhes o máximo possível!
+<br>
+
+[![Giancarlo GitHub stats](https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)(https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark)
 
 
