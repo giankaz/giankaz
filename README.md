@@ -2,6 +2,8 @@
 
 [![Giancarlo GitHub stats](https://github-readme-stats.vercel.app/api?username=giankaz)](https://github.com/giankaz/github-readme-stats)
 
+(https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)
+
 <h2 align="left">:hammer_and_wrench: Tecnologias que uso:</h2>
 
 <br>
