@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer 💻</h1>
 
-[![Giancarlo GitHub stats](https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)
+[![Giancarlo GitHub stats](https://github-readme-stats.vercel.app/api?username=giankaz&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giankaz&layout=compact&theme=dark)
 
 
 <h2 align="left">:hammer_and_wrench: Tecnologias que uso:</h2>
