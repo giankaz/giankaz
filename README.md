@@ -1,5 +1,11 @@
 <h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> Hello! I'm Giancarlo Rossi, Full Stack Web Developer 💻</h1>
 
+<br>
+
+<h1 align="center"><a href="https://www.linkedin.com/in/giankaz/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding"/> </a> </h1>
+
+<br> 
+
 
 <h2 align="left">:hammer_and_wrench: Tecnologias que uso:</h2>
 
