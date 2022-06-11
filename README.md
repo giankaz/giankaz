@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align="center"><a href="https://www.linkedin.com/in/giankaz/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding"/> </a> </h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/giankaz/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding"/> </a> <a href="https://gian-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkeding"/> </a> </h1>
 
 <br> 
 
