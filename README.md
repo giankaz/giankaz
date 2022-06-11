@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Giancarlo Rossi. Bem vindo(a) ao meu GitHub!  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"></h1>
+<h1 align="center">Olá! Eu sou Giancarlo Rossi. Bem vindo(a) ao meu GitHub!  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></h1>
 
 <br>
 
