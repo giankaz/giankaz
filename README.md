@@ -40,7 +40,7 @@
 
 <p align="left">
 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="GoLang" width="50" height="50"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="GoLang" width="50" height="50"/> </a>
 
 <br>
 <br>
