@@ -28,7 +28,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="50" height="50"/> </a>
      
 </p>
 
@@ -39,17 +39,10 @@
 <br>
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="firebase" width="50" height="50"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a>
+
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="GoLang" width="50" height="50"/> </a>
 
 <br>
-<br>
-<h2 align="left"> 👷‍♂️ Working At:</h2>
-
-<br>
-
-<a href="https://www.brasilfone.com.br/"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQFZImbfsSoSYg/profile-displaybackgroundimage-shrink_200_800/0/1594739774037?e=1659571200&v=beta&t=3cpli-rmUaKSku_133rqgN5V48ttcJUDHI3of0vONXw" width="100%"/></a>
-
 <br>
 
 <h2 align="left"> 🚀 Github Status:</h2> 
